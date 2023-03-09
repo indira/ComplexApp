@@ -14,7 +14,7 @@ node_modules/
 .tmp/
 PHP_CodeSniffer/
 
-.env/
+.env
 
 # OS or Editor folders
 .DS_Store
